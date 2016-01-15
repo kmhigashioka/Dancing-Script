@@ -1,0 +1,17 @@
+{
+  "name": "dancing-script",
+  "description": "Dancing Script",
+  "keywords": [],
+  "homepage": "https://www.google.com/fonts/specimen/Dancing+Script",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": ["OFL-1.1", "MIT"],
+  "main": [
+    "less/font-awesome.less",
+    "scss/font-awesome.scss"
+  ],
+  "ignore": [
+    "*/.*",
+    "*.json"
+  ]
+}
